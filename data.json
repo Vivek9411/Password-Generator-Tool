@@ -2,21 +2,5 @@
     "1": {
         "email": "1234556@gmail.com",
         "password_name": "2"
-    },
-    "leetcode": {
-        "email": "vivkumar941121+leetcode",
-        "password_name": "g+&m8qt$59Hq"
-    },
-    "tequila(flight)": {
-        "email": "lalitharry8@gmail.com",
-        "password_name": "1R$S8gx()Cl3"
-    },
-    "twilio": {
-        "email": "lalitharry8@gmail.com",
-        "password_name": "harrylalit@8harrylalit"
-    },
-    "pyhton": {
-        "email": "college",
-        "password_name": "nvaxsuvrjvmurgsf"
     }
 }
